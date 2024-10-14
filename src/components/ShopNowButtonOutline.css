@@ -1,0 +1,9 @@
+.shop-now-btn-outline {
+  display: inline-block;
+  font-size: 16px;
+  text-decoration: underline;
+  color: #2f2e2e;
+  cursor: pointer;
+  padding: 10px 34px;
+  margin-top: 20px;
+}
