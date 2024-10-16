@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  box-sizing: border-box;
 
   font-family: "Playfair Display", serif;
   font-optical-sizing: auto;
@@ -12,5 +13,6 @@ body {
 }
 
 :root {
-  --handwritten-font: "Italianno", cursive;
+  --handwritten-font-family: "Italianno", cursive;
+  --handwritten-font-color: #292f2f;
 }

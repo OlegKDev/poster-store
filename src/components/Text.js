@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Text ({
+function Text({
   content,
   fontSize = '16px',
   fontWeight = '400',
